@@ -25,3 +25,5 @@ function spawnTextBomDia() {
     spanElement.remove();
   }, 2000);
 }
+
+const nice = "4F6272696761646F20706F7220657374617220706F7220617175692054686961676F21203A44";
